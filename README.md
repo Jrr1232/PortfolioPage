@@ -6,6 +6,7 @@
 
 
 # Portfolio
+![image](https://github.com/Jrr1232/portfolio/assets/71472570/4e49850b-7d8d-4c90-814e-231e4109c6e4)
 
 
 ## 🤔 Introduction
