@@ -12,7 +12,7 @@
 ## 🤔 Introduction
 
 This is my portfolio webpage showing a couple of my projects. Enjoy the apps ! 👻
- <br/>🎯 URL - https://jrr1232.github.io/PortfolioPage/ 
+ <br/>🎯 URL - [https://jrr1232.github.io/PortfolioPage/ ](https://jrr1232.github.io/portfolio/)
 
 
 
